@@ -2,11 +2,11 @@ The following code provides figures and table of the article  [Emile Pierret,Bru
 
 The code reproduces Figure 1 with the graphs
 
-![image info](/Figures/discretization_cifar10.pdf)
+![image info](Figures/discretization_cifar10.pdf)
 
 and
 
-![image info](/Figures/eps_cifar10.pdf)
+![image info](Figures/eps_cifar10.pdf)
 
 
 
