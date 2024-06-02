@@ -9,7 +9,7 @@ The code provides also the tex source to generate Table 2 of the article which i
 <img src="Figures/table.png" width="800"/> 
 
 
-You can open the notebook using Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/emilePi/Diffusion-models-for-Gaussian-distributions-Exact-solutions-and-Wasserstein-errors/blob/main/code/Gaussian_diffusion_W2.ipynb)
+You can open the notebook using Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com](https://colab.research.google.com/github/emilePi/Diffusion-models-for-Gaussian-distributions-Exact-solutions-and-Wasserstein-errors/blob/main/code/Gaussian_diffusion_W2.ipynb)
 
 or download it from the folder code. Data used in the paper is available in the folder *code*.
 
