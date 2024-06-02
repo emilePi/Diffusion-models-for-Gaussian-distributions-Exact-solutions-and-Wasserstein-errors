@@ -14,6 +14,12 @@ The code provides also the tex source to generate Table 2 of the article which i
 ![image info](Figures/table.png)
 
 
+You can open the notebook using Google Colab:
+or download it from the folder code. Data used in the paper is available in the folder *code*.
+
+
+
+
 This peprint can be cited with the bibtex
 ```bib
 @INPROCEEDINGS{Pierret_Galerne_Gaussian_diffusion_Wasserstein_preprint,
@@ -21,5 +27,9 @@ This peprint can be cited with the bibtex
   year={2024},
   booktitle={Preprint}, 
   title={Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors}, 
-}```
+}
+```
+
+
+
 
