@@ -14,7 +14,7 @@ and gives also the tex source to generate Table 2 of the article which is:
 
 1. You can open the notebook using Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Diffusion-models-for-Gaussian-distributions-Exact-solutions-and-Wasserstein-errors/blob/main/code/Gaussian_diffusion_W2.ipynb) or download it from the folder code. Data used in the paper is available in the folder *code*.
 
-2. Download the data in your work direction from the folder [data](https://github.com/emilePi/Diffusion-models-for-Gaussian-distributions-Exact-solutions-and-Wasserstein-errors/tree/main/data)
+2. Download the data in your work directory from the folder [data](https://github.com/emilePi/Diffusion-models-for-Gaussian-distributions-Exact-solutions-and-Wasserstein-errors/tree/main/data)
 
 
 
