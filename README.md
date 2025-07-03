@@ -21,11 +21,12 @@ and gives also the tex source to generate Table 2 of the article which is:
 ## Reference
 This peprint can be cited with the bibtex:
 ```bib
-@INPROCEEDINGS{Pierret_Galerne_Gaussian_diffusion_Wasserstein_preprint,
-  author={Pierret, Emile and Galerne, Bruno},
-  year={2024},
-  booktitle={Preprint}, 
-  title={Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors}, 
+@inproceedings{
+pierret_galerne_Gaussian_diffusion_exact_solutions_2025,
+title={Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors},
+author={Emile Pierret and Bruno Galerne},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
 }
 ```
 
