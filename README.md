@@ -6,7 +6,7 @@ The code reproduces Figure 1 with the following graphs
 
 <img src="Figures_readme/discretization_cifar10-1.png" width="400"/> <img src="Figures_readme/eps_cifar10-1.png" width="400"/>
 
-and gives also the tex source to generate Table 2 of the article which is:
+and gives also the tex source to generate Table 5 of the article which is:
 
 <img src="Figures_readme/table.png" width="800"/>
 
