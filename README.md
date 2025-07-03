@@ -1,6 +1,7 @@
 ## Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors
 
 The following code provides figures and table of the preprint  [Emile Pierret,Bruno Galerne (2024). Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors. arXiv preprint arXiv:2405.14250.](https://arxiv.org/abs/2405.14250). You can use it with your own scheme and data.
+The following code provides figures and table of the preprint  [Emile Pierret,Bruno Galerne (2025). Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors. Accepted at ICML 2025](https://openreview.net/forum?id=bxYbxzCI2R). You can use it with your own scheme and data.
 
 The code reproduces Figure 1 with the following graphs
 
@@ -21,12 +22,20 @@ and gives also the tex source to generate Table 2 of the article which is:
 ## Reference
 This peprint can be cited with the bibtex:
 ```bib
+<<<<<<< HEAD
 @inproceedings{
 pierret_galerne_Gaussian_diffusion_exact_solutions_2025,
 title={Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors},
 author={Emile Pierret and Bruno Galerne},
 booktitle={Forty-second International Conference on Machine Learning},
 year={2025},
+=======
+@INPROCEEDINGS{Pierret_Galerne_Gaussian_diffusion_Wasserstein_preprint,
+  author={Pierret, Emile and Galerne, Bruno},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025},
+  url={https://openreview.net/forum?id=bxYbxzCI2R}
+>>>>>>> 703a034ec90eb21e5db354d9eb40579ece548669
 }
 ```
 
